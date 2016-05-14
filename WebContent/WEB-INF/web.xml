@@ -5,7 +5,7 @@
 	id="WebApp_ID" version="2.5">
 	<display-name>sparklesApp</display-name>
 	<welcome-file-list>
-		<welcome-file>html/SignIn.html</welcome-file>
+		<welcome-file>html/DBCreate.html</welcome-file>
 	</welcome-file-list>
 	<servlet>
 		<servlet-name>Jersey Web Application</servlet-name>
